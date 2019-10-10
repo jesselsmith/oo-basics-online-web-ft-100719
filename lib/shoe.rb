@@ -5,4 +5,9 @@ class Shoe
   def intitialize(brand)
     @brand = brand
   end
+  def cobble
+    puts "Shoe is repaired"
+    self.condition("new")
+  end
+    
 end
