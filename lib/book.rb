@@ -3,4 +3,3 @@ class Book
     @title =  title
   end
 end
-
