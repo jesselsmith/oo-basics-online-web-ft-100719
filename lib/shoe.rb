@@ -9,5 +9,5 @@ class Shoe
     puts "Shoe is repaired"
     self.condition("new")
   end
-    
+
 end
